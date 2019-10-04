@@ -8,6 +8,7 @@ import UserIcon from '@material-ui/icons/Group';
 import Dashboard from './Dashboard';
 import authProvider from './authProvider';
 
+//import dataProvider from './dataProvider';
 const dataProvider = jsonServerProvider('http://jsonplaceholder.typicode.com');
 
 //react-admin dashboard default homepage
